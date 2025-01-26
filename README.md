@@ -1,0 +1,1 @@
+The Dynamic Image Slider is a simple and responsive image carousel built using HTML, CSS, and JavaScript. This project showcases an interactive image slider with smooth transitions, navigation controls, and optional enhancements to improve user experience. It's a perfect example of how to create an engaging and visually appealing component for websites.
